@@ -1,4 +1,4 @@
-LiveScoresThroughWebScraping as the name suggests fetches scores of live games as reported by TheGuardian.com</br>
+LiveScoresThroughWebScraping as the name suggests, fetches scores of the live games as reported by TheGuardian.com</br>
 This python script uses BeautifulSoup to perform the web scraping.
 
 Prerequisites:</br>
