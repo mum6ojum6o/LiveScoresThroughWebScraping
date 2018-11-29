@@ -2,7 +2,10 @@ LiveScoresThroughWebScraping as the name suggests, fetches scores of the live ga
 This python script uses BeautifulSoup to perform the web scraping.
 
 Prerequisites:</br>
-Make sure to have Python and BeautifulSoup installed on your machine.
+<ul>
+  <li> Python 3.0</li>
+  <li>BeautifulSoup</li>
+</ul>
 
 <b>Usage:</b>
 1. Open terminal
